@@ -1,11 +1,11 @@
 # Site settings
-title: cocook小站
-SEOTitle: cocook小站 | panmg`s Blog
+title: iseeorg'Blog
+SEOTitle: iseeorg'Blog
 header-img: img/home-bg-hzw.jpg
-email: panmingguang2004@gmail.com
-description: "java, mysql, linux, postgresql, cocook小站, panmg's blogs, 潘明光的博客"
-keyword: "java, mysql, linux, postgresql, cocook小站, panmg's blogs, 潘明光的博客"
-url: "https://cocook.cn"              # your host, for absolute URL
+email: iseeorg@gmail.com
+description: "java, mysql, linux, postgresql, iseeorg'blog"
+keyword: "java, mysql, linux, postgresql, iseeorg'blog"
+url: "https://iseeorg.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,9 +14,9 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     panmingguang
-zhihu_username:     pan-ming-guang
-github_username:    panmingguang
-codealiyun_username:  414072243/resume/blob/master/panminguang2019.md
+#zhihu_username:     pan-ming-guang
+github_username:    iseeorg
+#codealiyun_username:  414072243/resume/blob/master/panminguang2019.md
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -72,11 +72,11 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-154848922-1'            # Format: UA-xxxxxx-xx
-ga_domain: cocook.cn
+#ga_track_id: 'UA-154848922-1'            # Format: UA-xxxxxx-xx
+#ga_domain: cocook.cn
 
 # https://www.google.com/adsense/new/u/0/pub-3298061137690508/home 
-ad-client: ca-pub-8025781494025163
+#ad-client: ca-pub-8025781494025163
 
 
 # Sidebar settings
@@ -104,7 +104,7 @@ page-mathjax: false
 
 
 # Friends
-friends: [
+#friends: [
    {
         title: "cnck每日頭條",
         href: "https://t.cn/A67PlMa1"
